@@ -1,0 +1,17 @@
+.conteudo {
+    background-color: blue;
+    border: 1px solid grey;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 20px;
+}
+
+.conteudo1 {
+    background-image: url("assets/smile.jpg");
+    border: 1px solid grey;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 20px;
+}
